@@ -135,9 +135,6 @@ Currently, users can:
 
 With future improvements such as **advanced search, 3D models, better payments, and AI-driven recommendations**, Dream Nest will become a **powerful hub for renters, buyers, and property owners**.
 
----
 
-## 📌 ER Diagram
-*(Add your ER diagram image here when available)*  
-```markdown
-![ER Diagram](link-to-your-er-diagram.png)
+
+
