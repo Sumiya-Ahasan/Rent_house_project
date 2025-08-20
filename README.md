@@ -1,6 +1,6 @@
 
 
-Project Overview
+Project Overview <br>
 Dream Nest is an all-in-one online platform that simplifies buying, renting, and decorating homes. It caters to diverse user roles such as renters, buyers, builders, home decorators, and administrators. Dream Nest focuses on streamlining real estate transactions and property management through a user-friendly interface.
 
 Motivation
